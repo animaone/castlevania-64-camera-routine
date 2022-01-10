@@ -1,5 +1,5 @@
 # castlevania-64-camera-routine
-Castlevania 64 camera routines
+A long time ago I wanted to change the Castlevania 64 camera routine. Today I don't see a reason for doing that and I don't remember why I wanted anymore. Anyways. It is here if someone want to mod it... 
 
 
 ```C
