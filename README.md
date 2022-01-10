@@ -1,6 +1,7 @@
 # castlevania-64-camera-routine
 A long time ago I wanted to change the Castlevania 64 camera routine. Today I don't see a reason for doing that and I don't remember why I wanted anymore. Anyways. It is here if someone want to mod it... 
 
+rom name: Castlevania (USA) (Rev A).n64
 rom sha512: ac64e0b34a657520585c14ada3a8bf37b5614de490404393d35e6554497ec079dc39fbcb8d5a868ed17df720d97ec5795ce8dd4b14f833bfc763e5df0d331f6b
 
 
