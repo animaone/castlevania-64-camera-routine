@@ -1,32 +1,23 @@
 # castlevania-64-camera-routine
 A few years ago I wanted to do a modding in this game. I couldn't remember why anymore, but after playing the game again for a while, I remembered.
 
-There are 2 castlevanias for Nintendo 64: Castlevania, also known as Castlevania64 and Castlevania Legacy of Darkness.
+There are 2 Castlevanias for Nintendo 64: Castlevania, also known as Castlevania64 and Castlevania Legacy of Darkness.
 
-The fact is that the first game looks like a demo. It lacks some basic things like: manual camera control and pressing start to exit the menu (you can enter the menu with start but you cannot exit).
+The fact is that the first game lacks some basic things like: manual camera control and pressing start to exit the menu (you can enter the menu with start but you cannot exit).
 
-In Legacy of Darkness they added better camera control via the d-pad. When we play both games the first thing that comes to mind is: "why isn't there better camera control in the first game?"
+In Legacy of Darkness they added better camera control via the D-Pad. When we play both games the first thing that comes to mind is: "why isn't there better camera control in the first game?"
 
 The automatic camera control is perfect, the problem is that when we are in a dungeon or climbing somewhere where we need precision, then the camera messes with the gameplay.
 
-I think that's where the idea came from😆, which I don't know is easily achievable. I had even lost my memory due to so much frustration with this game.
+I think that's where the idea came from😆, and I don't know if it is easily achievable.
 
-I compared the routines of the two games and there was no change from one game to another. In fact the two routines are exactly the same.
+I compared the automatic camera control routines of both games and there was no change from one game to another. In fact the two routines are exactly the same.
 
 The only modification I found until now is a new camera position call 🤔.
 
 If I could find the function that reads the joystick to generate these rotation values, I would be halfway there.
 
-For now, here's the automatic camera routine for the curious.
-
-The camera reminds me of the camera from Alice Madness Returns (am I being a flatterer? XD)
-
-Another thing I think is terrible is having a specific button to crouch and pick up items
-
-Basics of game mechanics
-
-It looks like a game that was made with a very short deadline...
-
+For now, here's the automatic camera routine for the curious:
 
 
 ```C
