@@ -13,7 +13,7 @@ I think that's where the idea came from😆, which I don't know is easily achiev
 
 I compared the routines of the two games and there was no change from one game to another. In fact the two routines are exactly the same.
 
-The only modification was adding the D-pad rotation to the camera rotation in a separate function. Very ingenious idea 🤔.
+The only modification I found until now is a new camera position call 🤔.
 
 If I could find the function that reads the joystick to generate these rotation values, I would be halfway there.
 
