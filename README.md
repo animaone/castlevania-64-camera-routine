@@ -7,7 +7,7 @@ The fact is that the first game looks like a demo. It lacks some basic things li
 
 In Legacy of Darkness they added better camera control via the d-pad, when we play both games the first thing that comes to mind is: "why isn't there better camera control in the first game?"
 
-the automatic camera control is perfect, the problem is that when we are in a dungeon or climbing somewhere where we need precision, then the camera messes with the gameplay.
+The automatic camera control is perfect, the problem is that when we are in a dungeon or climbing somewhere where we need precision, then the camera messes with the gameplay.
 
 I think that's where the idea came from😆, which I don't know is easily achievable. I had even lost my memory due to so much frustration with this game.
 
