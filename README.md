@@ -25,7 +25,7 @@ Another thing I think is terrible is having a specific button to crouch and pick
 
 Basics of game mechanics
 
-It looks like a game that was made well on the run...
+It looks like a game that was made with a very short deadline...
 
 
 
