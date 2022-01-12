@@ -15,7 +15,7 @@ I compared the routines of the two games and there was no change from one game t
 
 The only modification was adding the D-pad rotation to the camera rotation in a separate function. Very ingenious idea 🤔.
 
-If I can find the function that reads the joystick to generate these rotation values, I would be halfway there.
+If I could find the function that reads the joystick to generate these rotation values, I would be halfway there.
 
 For now, here's the automatic camera routine for the curious.
 
