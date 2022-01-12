@@ -19,7 +19,7 @@ If I could find the function that reads the joystick to generate these rotation 
 
 For now, here's the automatic camera routine for the curious.
 
-The camera reminds me of the camera from Alice Madness Returns (am I being too pushy? XD)
+The camera reminds me of the camera from Alice Madness Returns (am I being a flatterer? XD)
 
 Another thing I think is terrible is having a specific button to crouch and pick up items
 
