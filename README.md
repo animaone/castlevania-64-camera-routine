@@ -5,7 +5,7 @@ There are 2 castlevanias for Nintendo 64: Castlevania, also known as Castlevania
 
 The fact is that the first game looks like a demo. It lacks some basic things like: manual camera control and pressing start to exit the menu (you can enter the menu with start but you cannot exit).
 
-In Legacy of Darkness they added better camera control via the d-pad, when we play both games the first thing that comes to mind is: "why isn't there better camera control in the first game?"
+In Legacy of Darkness they added better camera control via the d-pad. When we play both games the first thing that comes to mind is: "why isn't there better camera control in the first game?"
 
 The automatic camera control is perfect, the problem is that when we are in a dungeon or climbing somewhere where we need precision, then the camera messes with the gameplay.
 
