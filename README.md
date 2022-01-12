@@ -1,10 +1,32 @@
 # castlevania-64-camera-routine
-A long time ago I wanted to change the Castlevania 64 camera routine. Today I don't see a reason for doing that and I don't remember why I wanted anymore. Anyways. It is here if someone want to mod it... 
+A few years ago I wanted to do a modding in this game. I couldn't remember why anymore, but after playing the game again for a while, I did.
 
-rom name: Castlevania (USA) (Rev A).n64
+There are 2 castlevanias for Nintendo 64: Castlevania, also known as Castlevania64 and Castlevania Legacy of Darkness.
 
+The fact is that the first game looks like a demo. It lacks some basic things like: manual camera control and pressing start to exit the menu (you can enter the menu with start but you cannot exit).
 
-rom sha512: ac64e0b34a657520585c14ada3a8bf37b5614de490404393d35e6554497ec079dc39fbcb8d5a868ed17df720d97ec5795ce8dd4b14f833bfc763e5df0d331f6b
+In Legacy of Darkness they added better camera control via the d-pad, when we play both games the first thing that comes to mind is: "why isn't there better camera control in the first game?"
+
+the automatic camera control is perfect, the problem is that when we are in a dungeon or climbing somewhere where we need precision, then the camera messes with the gameplay.
+
+I think that's where the idea came from😆, which I don't know is easily achievable. I had even lost my memory due to so much frustration with this game.
+
+I compared the routines of the two games and there was no change from one game to another. In fact the two routines are exactly the same.
+
+The only modification was adding the D-pad rotation to the camera rotation in a separate function. Very ingenious idea 🤔.
+
+If I can find the function that reads the joystick to generate these rotation values, I would be halfway there.
+
+For now, here's the automatic camera routine for the curious.
+
+The camera reminds me of the camera from Alice Madness Returns (am I being too pushy? XD)
+
+Another thing I think is terrible is having a specific button to crouch and pick up items
+
+Basics of game mechanics
+
+It looks like a game that was made well on the run...
+
 
 
 ```C
