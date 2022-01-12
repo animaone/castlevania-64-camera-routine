@@ -1,5 +1,5 @@
 # castlevania-64-camera-routine
-A few years ago I wanted to do a modding in this game. I couldn't remember why anymore, but after playing the game again for a while, I did.
+A few years ago I wanted to do a modding in this game. I couldn't remember why anymore, but after playing the game again for a while, I remembered.
 
 There are 2 castlevanias for Nintendo 64: Castlevania, also known as Castlevania64 and Castlevania Legacy of Darkness.
 
