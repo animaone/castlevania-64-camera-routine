@@ -19,7 +19,7 @@ If I could find the function that reads the joystick to generate these rotation 
 
 For now, here's the automatic camera routine for the curious:
 
-But first... Now we have Castlevania Diagonal64! \o/
+But first... Now we have Castlevania Diagonal64! \o/ Let's see we I can build in the next weeks. I need more RAM (only 400 bytes now ;; :P )
 
 ![image](https://user-images.githubusercontent.com/31348553/149406438-1f017929-c22d-4843-93c3-0f0e1ffe638d.png)
 
