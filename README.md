@@ -1,4 +1,4 @@
-# The patch: 
+# The patch
 In the process of analyzing this routine I ended up reaching the goal  of modifying the camera behaviour. Now it is possible to move the camera using D-Pad. Enjoy! I provided the bps patch for the ROM in this folder:
 https://github.com/animaone/castlevania-64-camera-routine/raw/main/Castlevania%20(USA)%20(Rev%202).bps
 
@@ -8,7 +8,7 @@ ROM md5sum:
 06b58673f7d31c56f8fe8186e86f6bd6
 
 
-# castlevania-64-camera-routine
+# The Story
 A few years ago I wanted to do a modding in this game. I couldn't remember why anymore, but after playing the game again for a while, I remembered.
 
 There are 2 Castlevanias for Nintendo 64: Castlevania, also known as Castlevania64 and Castlevania Legacy of Darkness.
