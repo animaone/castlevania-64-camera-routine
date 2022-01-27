@@ -1,3 +1,11 @@
+# The patch: 
+In the process of analyzing this routine I ended up reaching the goal  of modifying the camera behaviour. Now it is possible to move the camera using D-Pad. Enjoy! I provided the bps patch for the ROM in this folder: Castlevania (USA) (Rev 2).bps
+
+To be used with the ROM whose name is: Castlevania (USA) (Rev 2).z64
+ROM md5sum:
+06b58673f7d31c56f8fe8186e86f6bd6
+
+
 # castlevania-64-camera-routine
 A few years ago I wanted to do a modding in this game. I couldn't remember why anymore, but after playing the game again for a while, I remembered.
 
