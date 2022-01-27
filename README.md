@@ -31,7 +31,13 @@ For now, here's the automatic camera routine for the curious:
 
 But first... Now we have Castlevania Diagonal64! \o/ Let's see we I can build in the next weeks. I need more RAM (only 400 bytes now ;; :P )
 
+I found a way to have more memory and... here is the final video showing the camera mod:
+https://www.youtube.com/watch?v=NfnW2wi-0vQ
+
+The next image shows the old first(buggy) mod.
+
 ![image](https://user-images.githubusercontent.com/31348553/149406438-1f017929-c22d-4843-93c3-0f0e1ffe638d.png)
+
 
 
 
