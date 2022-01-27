@@ -3,6 +3,7 @@ In the process of analyzing this routine I ended up reaching the goal  of modify
 https://github.com/animaone/castlevania-64-camera-routine/raw/main/Castlevania%20(USA)%20(Rev%202).bps
 
 To be used with the ROM whose name is: Castlevania (USA) (Rev 2).z64
+
 ROM md5sum:
 06b58673f7d31c56f8fe8186e86f6bd6
 
