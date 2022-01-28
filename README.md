@@ -39,7 +39,7 @@ The next image shows the old first(buggy) mod.
 ![image](https://user-images.githubusercontent.com/31348553/149406438-1f017929-c22d-4843-93c3-0f0e1ffe638d.png)
 
 
-
+Following is the original extracted camera control function(not all of them, they are a lot! :P)
 
 ```C
 
