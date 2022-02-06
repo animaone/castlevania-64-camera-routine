@@ -1,5 +1,5 @@
 # The patch
-test
+
 In the process of analyzing this routine I ended up reaching the goal  of modifying the camera behaviour. Now it is possible to move the camera using D-Pad. Enjoy! I provided the bps patch for the ROM in this folder:
 https://github.com/animaone/castlevania-64-camera-routine/raw/main/Castlevania%20(USA)%20(Rev%202).bps
 
