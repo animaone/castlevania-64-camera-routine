@@ -12,7 +12,7 @@ The ROM md5 is:
 # The Story
 A few years ago I wanted to do a modding in this game. I couldn't remember why anymore, but after playing the game again for a while, I remembered.
 
-There are 2 Castlevanias for Nintendo 64: Castlevania, also known as Castlevania64 and Castlevania Legacy of Darkness.
+There are 2 Castlevanias for Nintendo 64: Castlevania, also known as Castlevania64 and the other game is Castlevania Legacy of Darkness.
 
 The fact is that the first game lacks some basic things like: manual camera control and pressing start to exit the menu (you can enter the menu with start but you cannot exit).
 
@@ -20,19 +20,15 @@ In Legacy of Darkness they added better camera control via the D-Pad. When we pl
 
 The automatic camera control is perfect, the problem is that when we are in a dungeon or climbing somewhere where we need precision, then the camera messes with the gameplay.
 
-I think that's where the idea came from😆, and I don't know if it is easily achievable.
+I think that's where the idea came from😆. I compared the automatic camera control routines of both games and there was no change from one game to another. In fact the two routines are exactly the same.
 
-I compared the automatic camera control routines of both games and there was no change from one game to another. In fact the two routines are exactly the same.
+I could find the function that reads the joystick to generate the camera rotation values.
 
-The only modification I found until now is a new camera position call 🤔.
+Here is the automatic camera routine for the curious:
 
-If I could find the function that reads the joystick to generate these rotation values, I would be halfway there.
+But first... Now we have Castlevania Diagonal64!
 
-For now, here's the automatic camera routine for the curious:
-
-But first... Now we have Castlevania Diagonal64! \o/ Let's see we I can build in the next weeks. I need more RAM (only 400 bytes now ;; :P )
-
-I found a way to have more memory and... here is the final video showing the camera mod:
+I found a way to have more memory, and modify the routine and... here is the final video showing the camera mod:
 https://twitter.com/Anima_C13L/status/1486802837887664130
 
 The next image shows the old first(buggy) mod.
